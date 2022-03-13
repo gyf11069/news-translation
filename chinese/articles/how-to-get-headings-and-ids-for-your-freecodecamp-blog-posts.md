@@ -36,7 +36,7 @@ var ids = document.querySelectorAll('[id]');
 
 Array.prototype.forEach.call( ids, function( el, i ) {
   // "el" 是你的元素
-  console.log( el.id ); // 打印 ID
+  console.log( el.id );  // 打印 ID
 });
 ```
 
