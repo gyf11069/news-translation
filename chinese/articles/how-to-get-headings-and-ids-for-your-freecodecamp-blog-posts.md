@@ -27,7 +27,7 @@
 -   [筛选 `localName`](#filter-on-the-localname)
 -   [结论](#conclusion)
 
-## JavaScript 来拯救!
+## JavaScript 来拯救 !
 
 考虑到这个想法，我快速搜索并找到了一个可以使用的 [Stack Overflow](https://stackoverflow.com/a/7115083/1138354) 回答，代码如下:
 
